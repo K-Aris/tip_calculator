@@ -1,0 +1,22 @@
+body {
+    width: 100%; 
+    margin: auto;
+}
+
+section {
+    padding: 10px; 
+}
+
+div {
+    /* border: 1px dashed red; */
+    margin-bottom: 20px; 
+}
+
+#billAmount {
+    width: 100%;
+}
+
+
+#tipRange {
+    width: 75%; 
+}
